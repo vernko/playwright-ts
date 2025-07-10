@@ -1,0 +1,16 @@
+{
+  "name": "playwright-typescript",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.53.2",
+    "playwright": "^1.53.2"
+  }
+}
