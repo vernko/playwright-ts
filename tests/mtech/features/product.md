@@ -4,6 +4,8 @@
         * School of Healthcare (/programs/school-healthcare)
         * Apply
         * Radiography Technology (/programs/school-healthcare/radiography-technology)
+        * Canvas
+        * Student Portal
 * Apply
     * Click "Click here to apply now" & on Apply Now button at the bottom.
     * Maybe fill out the form
