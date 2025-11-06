@@ -5,6 +5,7 @@ export class HomePage {
     get applyButton() { return this.page.getByRole('link', { name: 'Apply Now', exact: true })} ;
     get programsMenuItem() { return this.page.locator('[id="jet-mega-menu-item-87"]').first() };
     get schoolOfHealthcareButton() { return this.page.locator('[data-id="866662c"]').first() };
+    get schoolOfTechnologyButton() { return this.page.locator('[data-id="f865778"]').first() };
     get seeAllProgramsButton() { return this.page.locator('[data-id="af91bb1"]').first() };
 
     constructor (readonly page: Page) {}
